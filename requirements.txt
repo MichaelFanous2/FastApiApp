@@ -12,7 +12,6 @@ importlib_metadata==4.11.3
 ipython==8.5.0
 ipywidgets==8.0.2
 Jinja2==3.1.2
-jnius==1.1.0
 keyring==23.9.3
 lockfile==0.12.2
 lxml==4.9.1
@@ -30,3 +29,4 @@ toml==0.10.2
 tornado==6.1
 xmlrpclib==1.0.1
 zipp==3.8.0
+jnius==1.1.0
